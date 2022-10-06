@@ -24,17 +24,18 @@ If you are working on a computer browser (or on a tablet in landscape orientatio
 
 Within the text, links to sections within the current chapter, to other chapters, and to external web references are shown in blue. Links shown in ***bold italic*** blue refer to entries in the 'Glossary' chapter.
 
+## Image Credits
+
+Credits will be found at the end of each chapter. The picture on this page shows the six bells of St Thomas the Martyr, Up Holland, Lancashire, UK raised ready for ringing. This was the winner of the *Bells and Installations* round of the Central Council photographic competition. (Photo: Phil Pope)
+
 ## Latest Changes
 
 | Date | Changes |
 | ---- | ---- |
+| 06/10/2022 | Bell frames: Bonding of metal frames to lightning conductor included |
 | 30/09/2022 | Each chapter now has a link to the next and previous ones. |
 | 23/09/2022 | Acknowledgements & Sources: Pickford document available online. |
 | 31/08/2022 | First publication. All chapters at v1.0 |
-
-## Image Credits
-
-Credits will be found at the end of each chapter. The picture on this page shows the six bells of St Thomas the Martyr, Up Holland, Lancashire, UK raised ready for ringing. This was the winner of the *Bells and Installations* round of the Central Council photographic competition. (Photo: Phil Pope)
 
 ----
 
@@ -48,6 +49,6 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.1, September 2022
+Version 1.0.2, October 2022
 
 © 2022 Central Council of Church Bell Ringers
