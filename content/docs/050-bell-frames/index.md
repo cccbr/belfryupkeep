@@ -87,6 +87,18 @@ Any cases of decay or beetle attack will require specialist treatment.
 
 Metal frames require little maintenance, although checks should be made for loose or missing fastenings (usually a rare occurrence). However, these frames need to be cleaned and repainted every 10 or 20 years. This is not a simple job, and the use of a Bell Hanger should be considered. Many girders may be located close to the walls, making their outer surface difficult to access, and vulnerable points where girders meet the tower walls may require the use of ladders or scaffolds.
 
+### Lightning protection on metal frames
+
+Lightning strikes on high buildings like church towers are not unusual, and all towers should be protected by properly installed and regularly checked lighting conductors, which take the charge to earth (electrically and literally). While this is not the responsibility of the ringers, there is a 'connection', in that metal bell frames must be bonded to the lightning conductor system. An example is shown arrowed in Figure 6, where the bond is to the bottom of one of the main support girders. Details may vary on other installations.
+
+![Bond to lightning conductor](frames_fig-6.jpg)
+
+*Figure 6: Bonding of a metal bell frame to the church lighting conductor*
+
+The reason for bonding is that lightning will take the path of least resistance to earth. For a strike on an unbonded metal frame, that path may be down damp ropes or clock hammer linkages. This could result in fires, damage to masonry, electric shocks and damage to electrical equipment in the church.
+
+A properly installed bond should not deteriorate but, as the Steeple Keeper is likely to see the bell frame more often than other church officials, it would be prudent to identify the site of the bonding point and include a check on it in the maintenance schedule. Any problem should, of course, be reported immediately to the church authorities.
+
 ## Image Credits
 
 | Figure | Details | 
@@ -110,6 +122,6 @@ Metal frames require little maintenance, although checks should be made for loos
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.1, September 2022
+Version 1.1.0, October 2022
 
 © 2022 Central Council of Church Bell Ringers
