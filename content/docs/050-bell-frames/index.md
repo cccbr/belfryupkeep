@@ -109,6 +109,7 @@ A properly installed bond should not deteriorate but, as the Steeple Keeper is l
 | 3 | Low-sided metal frame (Whitechapel 1996) at Thornbury, South Glos. (Photo: Robin Shipp) |
 | 4 | ‘H’ frame (John Taylor & Co, 1903) at Long Ashton, Somerset. Entry in the *Bells and Installations* round of the Central Council photographic competition. (Photo: Will Rogers) |
 | 5 | Radial Frame (Mears & Stainbank, 1962) at Washington Cathedral, USA. Entry in the *Bells and Installations* round of the Central Council photographic competition. (Photo: Lian von Wantoch) |
+| 6 | Bonding of the bell frame to the lighting conductor at Thornbury, South Glos. (Photo: Robin Shipp)
 
 ----
 
