@@ -76,7 +76,7 @@ A spider is a device usually used to hoist bell ropes up to the ceiling when not
 
 The spider is not there just to make the ringing room look tidy – it may be necessary to use it to secure the ropes from unwanted tampering. This will be discussed further in in the online document *Running a Tower* (currently in preparation). That document will also cover decisions about where to place the spider and its cord within the ringing room.
 
-The spider should stop above normal head height, to avoid possible injury if the cord is accidentally let go. This can usually be achieved by running the cord through an eyebolt or similar above the fixing point, with a knot (ideally a ***[‘Figure-eight’ knot](../170-glossary/#figure-eight-knot)***) to catch the cord at a safe height, as shown (arrowed) in Figure 6. 
+The spider needs to be heavy enough to descend easily and reliably without the weight of the ropes, remembering that the pully may become stiff with age – reaching a stuck spider in a most ringing chambers would not be easy. The spider should also stop above normal head height, to avoid possible injury if the cord is accidentally let go. This can usually be achieved by running the cord through an eyebolt or similar above the fixing point, with a knot (ideally a ***[‘Figure-eight’ knot](../170-glossary/#figure-eight-knot)***) to catch the cord at a safe height, as shown (arrowed) in Figure 6. 
 
 ![Knot in spider cord](ropes_fig-6.jpg)
 
@@ -201,6 +201,6 @@ The rope is then tied off on the top spokes of the wheel, see Figure 8. Details 
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.1, September 2022
+Version 1.0.2, October 2022
 
 © 2022 Central Council of Church Bell Ringers
