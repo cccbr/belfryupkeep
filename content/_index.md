@@ -32,6 +32,7 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 | Date | Changes |
 | ---- | ---- |
+| 14/10/2022 | Ropes: weight of spider |
 | 06/10/2022 | Bell frames: Bonding of metal frames to lightning conductor included |
 | 30/09/2022 | Each chapter now has a link to the next and previous ones. |
 | 23/09/2022 | Acknowledgements & Sources: Pickford document available online. |
@@ -49,6 +50,6 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.2, October 2022
+Version 1.0.3, October 2022
 
 © 2022 Central Council of Church Bell Ringers
