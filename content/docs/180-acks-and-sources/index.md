@@ -13,7 +13,7 @@ This chapter lists the people who have contributed, in various ways, to this doc
 
 **For technical advice**: Bryn-Marie Reinstadler, Mark Elvers, Lucas Williams and Graham John.
 
-**For words, pictures, reviews, comments and general assistance**: Tina Andrew, David Bagley, John Beresford, Marcus Booth, Will Bosworth, Keith Brown, Dave Clark, Graham Clifton, Tony Crabtree, Alan Frost, Alison Hodge, James Joynson, Roger Lawson, Ernie de Legh-Runciman, Julia Lysaght, Alan Moult, Allen Nunley, John Payton, Chris Pickford, Chris Povey, Philip Pratt, Mark Regan, Simon Ridley, David Roskelly, Robin Shipp, Malcolm Taylor, Aveline Perez de Vera, Andrew Ward, Peter Woollam. 
+**For words, pictures, reviews, comments and general assistance**: Tina Andrew, David Bagley, John Beresford, Marcus Booth, Will Bosworth, Keith Brown, Dave Clark, Graham Clifton, Tony Crabtree, Alan Frost, Alison Hodge, James Joynson, Roger Lawson, Ernie de Legh-Runciman, Julia Lysaght, Robin Milford, Alan Moult, Allen Nunley, John Payton, Chris Pickford, Chris Povey, Philip Pratt, Mark Regan, Simon Ridley, David Roskelly, Robin Shipp, Malcolm Taylor, Aveline Perez de Vera, Andrew Ward, Peter Woollam. 
 
 ## Sources
 
