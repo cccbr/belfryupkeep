@@ -32,6 +32,7 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 | Date | Changes |
 | ---- | ---- |
+| 07/11/2022 | Maintenance Schedule: Full version now available |
 | 14/10/2022 | Ropes: weight of spider |
 | 06/10/2022 | Bell frames: Bonding of metal frames to lightning conductor included |
 | 30/09/2022 | Each chapter now has a link to the next and previous ones. |
