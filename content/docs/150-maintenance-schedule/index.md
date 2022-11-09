@@ -56,7 +56,7 @@ Some areas within a tower will be shared with others: the clock winder or the pe
 
 ### Content of the schedule
 
-This is where you remove the items not applicable to your installation or add ones peculiar to your tower which are not covered in the model schedule. Note that the items in the schedule follow the same order as the chapters in *Belfry Upkeep*. The relevant chapter provides details of the checks to be carried out.
+This is where you remove the items not applicable to your installation or add ones peculiar to your tower which are not covered in the model schedule. Note that the items in the schedule follow the same order as the chapters in *Belfry Upkeep*. The relevant chapter provides details of the checks to be carried out. In addition, your local Guild or Association may be able to provide advice.
 
 The items under ‘General’ may be more difficult – every tower is different and liaison with the **Church** may be essential. In many cases, these will be the responsibility of the **Church** and, as noted above, the Steeple Keeper will check that they have not been missed or will carry them out by agreement with the **Church**.
 
