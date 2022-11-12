@@ -224,7 +224,7 @@ The procedure for checking is as follows:
 **Procedure for checking a clapper**
 
 1. Standing in the pit, swing the clapper to check for squealing or
-grinding noises. It should swing smoothly and noiselessly. If not, this
+grinding noises. It should swing smoothly and noiselessly, for more than five swings. **(Take care to avoid getting hit my the siwinging clapper!)** If not, this
 could indicate problems with the clapper bush. If the clapper has
 provision for lubrication this should be used.
 
