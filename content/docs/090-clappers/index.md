@@ -548,10 +548,10 @@ Ringing World* 2019 (5686): 388-391, (5694): 582-585 and (5679):
 | :---: | --- | 
 | Title Picture | Bell and clapper in motion at Worcester Cathedral. Cropped from an entry in the *Bells and Installations* round of the Central Council photographic competition. (Photo: Phillip George) |
 | 1 | Rudhall 'Wooden Top' clapper removed from 4th bell at Thornbury, South Glos, during rehanging in 1996. (Photo: Robin Shipp) |
-| 2(a) | Clapper from Palmer, Houston, showing (A) double locknut, (B) crown staple washer, (C) clevis, (D) pivot pin locknut and (E) nipple for lubrication of the bush. (Photo: Allen Nunley) |
+| 2(a) | Clapper from Palmer, Houston, showing parts. (Photo: Allen Nunley) |
 | 2(b) | Castellated nut and split pin on seventh bell at Chipping Sodbury. (Photo: Robin Shipp) |
-| 3 | Headstock of Tenor bell at Thornbury, South Glos, showing (A) 'Twiddle Pin' and (B) crown staple secured by a nut and locknut. (Photo: Robin Shipp) |
-| 4 | Wooden shafted clapper installed by Whites of Appleton on Tenor bell at Thornbury, South Glos. Note the bolts securing the clapper ball to the shaft (other designs may vary). (Photo: Robin Shipp) |
+| 3 | Headstock of Tenor bell at Thornbury, South Glos, showing 'Twiddle Pin' and crown staple secured by a nut and locknut. (Photo: Robin Shipp) |
+| 4 | Wooden shafted clapper installed by Whites of Appleton on Tenor bell at Thornbury, South Glos. (Photo: Robin Shipp) |
 | 5 | SG clapper broken at the top end. (Photo: Dave Clark) |
 
 ----
@@ -566,6 +566,6 @@ Ringing World* 2019 (5686): 388-391, (5694): 582-585 and (5679):
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.1, September 2022
+Version 1.0.2, December 2022
 
 © 2022 Central Council of Church Bell Ringers
