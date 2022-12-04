@@ -123,8 +123,8 @@ Wheel stays, as used to support the wheel with a wooden headstock, are relativel
 | :---: | --- | 
 | 1 | Wheel annotated to show component parts. (Photo: Graham Clifton, Whites of Appleton) |
 | 2 | Details of garter hole and bobbins. (Photo: Robin Shipp) |
-| 3 | Showing (A) bracket between wheel and cast iron headstock, and (B) angle brace to strengthen the wheel. (Photo: Robin Shipp) |
-| 4 | Wheel stays (arrowed) on a wooden headstock at Borden, Kent. Entry in the *Bells and Installations* round of the CCCBR Photographic Competition. Photo: Christopher J Cooper)  |
+| 3 | Showing bracket between wheel and cast iron headstock, and angle brace to strengthen the wheel. (Photo: Robin Shipp) |
+| 4 | Wheel stays on a wooden headstock at Borden, Kent. Entry in the *Bells and Installations* round of the CCCBR Photographic Competition. Photo: Christopher J Cooper)  |
 
 ----
 
