@@ -11,7 +11,7 @@ The Steeple Keeper should be formally appointed by the Authorising Body in a cle
 
 ## Requirements within the Church of England
 
-Of the over 7000 rings of bells in the world, around 90% are with the jurisdiction of the Church of England (CoE). This document is aimed world-wide, however, and we also provide further information in [Other Jurisdictions](#other-jurisdictions).
+Of the over 7000 rings of bells in the world, around 90% are within the jurisdiction of the Church of England (CoE). This document is aimed world-wide, however, and we also provide further information in [Other Jurisdictions](#other-jurisdictions).
 
 The ChurchCare [website](https://www.churchofengland.org/resources/churchcare/advice-and-guidance-church-buildings/bells-and-bell-ringing) provides useful general information.
 
