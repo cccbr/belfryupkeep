@@ -25,41 +25,22 @@ The Rules were amended in 2019 and again in 2022. The full version of the latest
 
 ## Items Most Likely to be of Relevance for Ringers
 
-The extracts given below are relevant to bells and associated fittings, and also to clocks. Church clocks are included here because they are typically housed in the church tower and in many cases use the ringing bells as clock bells.
+The extracts given below are from Scedule 1 of the (very long) document referenced above and are relevant to bells and associated fittings, and also to clocks. Church clocks are included here because they are typically housed in the church tower and in many cases use the ringing bells as clock bells.
 
-### List A:
+{{<hint warning>}}
+Please note that, if you need to be involved in preparing a Faculty, the extracts below are not a substitute for the full document.
+{{</hint>}}
+
+## List A:
  As stated above, items in List A may simply be undertaken (within the specified conditions) by a parish without a faculty and without the need for any form of consultation. The Steeple Keeper will work closely with the parish in discussions on these.
 
 ### A3. Bells etc.
 
-| Matter | Specified Conditions | 
-| ----- | ----- |
-|(1) The inspection and routine maintenance of bells, bell fittings and bell frames | No tonal alterations are made to any bell |
-| | No bell is lifted from its bearings |	
-| (2) The repair and maintenance of clappers, crown staples (including re-bushing) and bell wheels | Works do not include the re-soling or re-rimming of a bell wheel |
-| | No bell is lifted from its bearings |	
-| (3) The repair or replacement of bell stays, pulleys, bell ropes (including in Ellacombe apparatus), rope bosses, sliders or slider gear | No bell is lifted from its bearings |	
-| (4) The repainting of metal bell frames and metal bell fittings | No bell is lifted from its bearings|
-| (5) The like for like replacement of a wrought iron clapper shaft |    |
+![A3 Bells, etc](a3-bells.png)
 	
 ### A4. Clocks	
 
-| Matter | Specified Conditions | 
-| ----- | ----- |
-|(1) The inspection and routine maintenance of clocks and clock dials | Works do not include re-painting or re-gilding of clock dials or repainting clock movements |	
-| (2) Maintenance and like-for-like repairs, without removing the clock from the church, of: | |
-| (a) ratchets, clicks and click springs on flies | |
-| (b) locking levers| |
-| (c) pulleys| |
-| (d) broken hands | |
-| (e) clock hammers and their springs	| |	
-| (3) Replacement of: | |
-| (a) weight lines | |
-| (b) suspension springs| |
-| (c) fixings of clock dials| |		
-| (4) The reinstallation of disconnected hands and numerals | Works do not include re-painting or re-gilding of clock dials or repainting clock movements |	
-| (5) Repairs to bell cranks and clock bell hammers | |		
-| (6) The upgrading of electrical control devices and programmers | Any work to an electrical installation is carried out by a person whose work is subject to an accredited certification scheme (as defined in rule 3.1(6)) |
+![A4 Clocks](a4-clocks.png)
 
 ## List B
 
@@ -67,37 +48,11 @@ This table prescribes items which may, subject to any specified conditions, be u
 
 ### B2. Bells etc.	
 
-| Matter | Specified Conditions | 
-| ----- | ----- |
-| (1) The lifting of a bell to allow the cleaning of bearings and housings | Regard is had to any guidance issued by the Church Buildings Council |
-| | No modification is made to the manner in which any bell may be sounded |
-| | No historic material is modified or removed |	
-| (2) The like for like replacement of: | Regard is had to any guidance issued by the Church Buildings Council |
-| (a)	bearings and their housings | The works do not involve the drilling or turning of the bell |
-| (b)	gudgeons | No modification is made to the manner in which any bell may be sounded |
-| (c)	crown staple assembly | No historic material is modified or removed |
-| (d)	steel or cast iron headstocks | |
-| (e)	wheels | |
-| (3) The replacement of: | Regard is had to any guidance issued by the Church Buildings Council |
-| (a)	bell bolts | No modification is made to the manner in which any bell may be sounded |
-| (b)	a wrought iron clapper shaft with a wooden-shafted clapper | No historic material is modified or removed |
-| (4) The treatment of timber bell frames with preservative or insecticide materials | |
-| (5) The re-pinning or re-facing of hammers in Ellacombe apparatus | Regard is had to any guidance issued by the Church Buildings Council |
-| | No modification is made to the manner in which any bell may be sounded |
-| | No historic material is modified or removed |	
-| (6) The installation of an electric silent ringing device for the training of ringers | Any work to an electrical installation or electrical equipment is carried out by a person whose work is subject to an accredited certification scheme (as defined in rule 3.1(6)) |
-| | The device is installed in a location not normally visible to the public |
-| | No alteration is made to the fittings of the bells other than the installation of electric contacts and wires |
-| | The device does not adversely affect the church’s protection against lightning |	
-| (7) A sound control measure in a belfry | Any fixings are made into mortar |	
-| (8) The introduction of peal boards in a location not normally visible to the public | |	
+![B2 Bells](b2-bells.png)	
 	
 ### B3. Clocks	
 
-| Matter | Specified Conditions | 
-| ----- | ----- |
-| (1) Alterations to striking trains to prevent striking at night| No part of the clock movement is affected |	
-| (2) The repair or replacement of electrical or electronic clocks manufactured after 1950 | |	
+![B3 Clocks](b3-clocks.png)	
 
 ## Image Credits
 
@@ -117,6 +72,6 @@ This table prescribes items which may, subject to any specified conditions, be u
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.1, September 2022
+Version 1.1, January 2023
 
-© 2022 Central Council of Church Bell Ringers
+© 2023 Central Council of Church Bell Ringers
