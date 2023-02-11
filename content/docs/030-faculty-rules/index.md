@@ -21,7 +21,7 @@ The Faculty Jurisdiction Rules 2015 were introduced with the intention of simpli
 -	Items in List A may be undertaken by a parish without a faculty and without the need for any form of consultation. 
 -	Items in List B may be undertaken without a faculty provided the archdeacon is consulted and has given written authorisation.
 
-The Rules were amended in 2019 and again in 2022. The full version of the latest guidance is [here](https://www.churchofengland.org/resources/churchcare/church-buildings-council/how-we-manage-our-buildings).
+The Rules were amended in 2019 and again in 2022. The full version of the latest guidance is [here](https://www.legislation.gov.uk/uksi/2019/1184/article/20/made).
 
 ## Items Most Likely to be of Relevance for Ringers
 
