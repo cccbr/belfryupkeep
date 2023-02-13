@@ -135,11 +135,12 @@ This table prescribes items which may, subject to any specified conditions, be u
 
 {{< rawhtml >}}
 
-
 <table>
     <thead>
-        <td><i>Matter</i></td>
-        <td><i>Specified conditions</i></td>    </tbody>
+        <tr>
+            <td><i>Matter</i></td>
+            <td><i>Specified conditions</i></td>
+        </tr>
     </thead>
     <tbody>
        <tr>
