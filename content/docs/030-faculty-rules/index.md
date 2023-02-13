@@ -140,7 +140,7 @@ This table prescribes items which may, subject to any specified conditions, be u
         <td><i>Matter</i></td>
         <td><i>Specified conditions</i></td>    </tbody>
     </thead>
-   <tbody>
+    <tbody>
        <tr>
            <td>(1) The lifting of a bell to allow the cleaning of bearings and housings</td>
            <td>
@@ -208,7 +208,7 @@ This table prescribes items which may, subject to any specified conditions, be u
            <td>(8) The introduction of peal boards in a location not normally visible to the public</td>
            <td></td>
        </tr>
-   </tbody>>
+    </tbody>>
 </table>
 
 {{< /rawhtml >}}	
