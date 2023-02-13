@@ -53,7 +53,30 @@ This table prescribes items which may, subject to any specified conditions, be u
 	
 #### B3. Clocks	
 
-![b3 clocks](b3-clocks.png)	
+![b3 clocks](b3-clocks.png)
+
+{{< rawhtml >}}
+
+<table>
+    <thead>
+        <tr>
+            <td><i>Matter</i></td>
+            <td><i>Specified conditions</i></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>(1) Alterations to striking trains to prevent striking at night</td>
+            <td>No part of the clock movement is affected</td>
+        </tr>
+        <tr>
+            <td>(2) The repair or replacement of electrical or electronic clocks manufactured after 1950</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+{{< /rawhtml >}}
 
 ## Image Credits
 
