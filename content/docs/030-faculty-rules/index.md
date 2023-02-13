@@ -31,28 +31,212 @@ The extracts given below are from Scedule 1 of the (very long) document referenc
 Please note that, if you need to be involved in preparing a Faculty, the extracts below are not a substitute for the full document.
 {{</hint>}}
 
-## List A:
+### List A
+
  As stated above, items in List A may simply be undertaken (within the specified conditions) by a parish without a faculty and without the need for any form of consultation. The Steeple Keeper will work closely with the parish in discussions on these.
 
-### A3. Bells etc.
+#### A3. Bells etc
 
-![A3 Bells, etc](a3-bells.png)
+{{< rawhtml >}}
+
+<table>
+    <thead>
+        <tr>
+            <td><i>Matter</i></td>
+            <td><i>Specified conditions</i></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>(1) The inspection and routine maintenance of bells, bell fittings and bell frames</td>
+            <td>
+                <p>No tonal alterations are made to any bell</p>
+                <p>No bell is lifted from its bearings</p>
+            </td>
+        </tr><tr>
+            <td>(2) The repair and maintenance of clappers, crown staples (including re-bushing) and bell wheels</td>
+            <td>
+                <p>Works do not include the re-soling or re-rimming of a bell wheel</p>
+                <p>No bell is lifted from its bearings</p>
+            </td>
+        </tr>
+        <tr>
+            <td>(3) The repair or replacement of bell stays, pulleys, bell ropes (including in Ellacombe apparatus), rope bosses, sliders or slider gear</td>
+            <td>No bell is lifted from its bearings</td>
+        </tr>
+        <tr>
+            <td>(4) The repainting of metal bell frames and metal bell fittings</td>
+            <td>No bell is lifted from its bearings</td>
+        </tr>
+        
+    </tbody>
+</table>
+
+{{< /rawhtml >}}
 	
-### A4. Clocks	
+#### A4. Clocks	
 
-![A4 Clocks](a4-clocks.png)
+{{< rawhtml >}}
 
-## List B
+<table>
+    <thead>
+        <tr>
+            <td><i>Matter</i></td>
+            <td><i>Specified conditions</i></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>(1) The inspection and routine maintenance of clocks and clock dials</td>
+            <td>Works do not include re-painting or re-gilding of clock dials or repainting clock movements</td>
+        </tr>
+        <tr>
+            <td>
+                <p>(2) Maintenance and like-for-like repairs, without removing the clock from the church, of:</p>
+                <p>(a) ratchets, clicks and click springs on flies</p>
+                <p>(b) locking levers</p>
+                <p>(c) pulleys</p>
+                <p>(d) broken hands</p>
+                <p>(e) clock hammers and their springs</p>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                <p>(3) Replacement of:</p>
+                <p>(a) weight lines</p>
+                <p>(b) suspension springs</p>
+                <p>(c) fixings of clock dials</p>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>(4) The reinstallation of disconnected hands and numerals</td>
+            <td>Works do not include re-painting or re-gilding of clock dials or repainting clock movements</td>
+        </tr>
+        <tr>
+            <td>(5) Repairs to bell cranks and clock bell hammers</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>(6) The upgrading of electrical control devices and programmers</td>
+            <td>Any work to an electrical installation is carried out by a person whose work is subject to an accredited certification scheme (as defined in rule 3.1(6))</td>
+        </tr>
+    </tbody>
+</table>
+
+{{< /rawhtml >}}
+
+### List B
 
 This table prescribes items which may, subject to any specified conditions, be undertaken without a faculty if the archdeacon has been consulted on the proposal to undertake the matter and has given notice in writing that the matter may be undertaken without a faculty. The archdeacon may impose additional conditions in the written notice. The Steeple Keeper will provide technical assistance in preparation of the proposal to the archdeacon.
 
-### B2. Bells etc.	
+#### B2. Bells etc	
 
-![B2 Bells](b2-bells.png)	
+{{< rawhtml >}}
+
+<table>
+    <thead>
+        <td><i>Matter</i></td>
+        <td><i>Specified conditions</i></td>
+    </thead>
+   <tbody>
+       <tr>
+           <td>(1) The lifting of a bell to allow the cleaning of bearings and housings</td>
+           <td>
+               <p>Regard is had to any guidance issued by the Church Buildings Council</p>
+               <p>No modification is made to the manner in which any bell may be sounded</p>
+               <p>No historic material is modified or removed</p>
+           </td>
+       </tr>
+       <tr>
+           <td>
+               <p>(2) The like for like replacement of—</p>
+               <p>(a) bearings and their housings</p>
+               <p>(b) gudgeons</p>
+               <p>(c) crown staple assembly</p>
+               <p>(d) steel or cast iron headstocks</p>
+               <p>(e) wheels</p>
+           </td>
+           <td>
+               <p>Regard is had to any guidance issued by the Church Buildings Council</p>
+               <p>The works do not involve the drilling or turning of the bell</p>
+               <p>No modification is made to the manner in which any bell may be sounded</p>
+               <p>No historic material is modified or removed</p>
+           </td>
+       </tr>
+       <tr>
+           <td>
+               <p>(3) The replacement of—</p>
+               <p>(a) bell bolts</p>
+               <p>(b) a wrought iron clapper shaft with a wooden-shafted clapper</p>
+           </td>
+           <td>
+               <p>Regard is had to any guidance issued by the Church Buildings Council</p>
+               <p>No modification is made to the manner in which any bell may be sounded</p>
+               <p>No historic material is modified or removed</p>
+           </td>
+       </tr>
+       <tr>
+           <td>(4) The treatment of timber bell frames with preservative or insecticide materials</td>
+           <td></td>
+       </tr>
+       <tr>
+           <td>
+            (5) The re-pinning or re-facing of hammers in Ellacombe apparatus 
+           </td>
+           <td>
+            <p>Regard is had to any guidance issued by the Church Buildings Council</p>
+            <p>No modification is made to the manner in which any bell may be sounded</p>
+            <p>No historic material is modified or removed</p>
+           </td>
+       </tr>
+       <tr>
+           <td>(6) The installation of an electric silent ringing device for the training of ringers</td>
+           <td>
+               <p>Any work to an electrical installation or electrical equipment is carried out by a person whose work is subject to an accredited certification scheme (as defined in rule 3.1(6))</p>
+               <p>The device is installed in a location not normally visible to the public</p>
+               <p>No alteration is made to the fittings of the bells other than the installation of electric contacts and wires</p>
+               <p>The device does not adversely affect the church’s protection against lightning</p>
+           </td>
+       </tr>
+       <tr>
+           <td>(7) The installation of louvres in a belfry as a sound control measure</td>
+           <td>Any fixings are made into mortar</td>
+       </tr>
+       <tr>
+           <td>(8) The introduction of peal boards in a location not normally visible to the public</td>
+           <td></td>
+       </tr>
+   </tbody>>
+</table>
+
+{{< /rawhtml >}}	
 	
-### B3. Clocks	
+#### B3. Clocks	
 
-![B3 Clocks](b3-clocks.png)	
+{{< rawhtml >}}
+
+<table>
+    <thead>
+        <tr>
+            <td><i>Matter</i></td>
+            <td><i>Specified conditions</i></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>(1) Alterations to striking trains to prevent striking at night</td>
+            <td>No part of the clock movement is affected</td>
+        </tr>
+        <tr>
+            <td>(2) The repair or replacement of electrical or electronic clocks manufactured after 1950</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+{{< /rawhtml >}}	
 
 ## Image Credits
 
@@ -72,6 +256,6 @@ This table prescribes items which may, subject to any specified conditions, be u
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.1, January 2023
+Version 1.2, February 2023
 
 © 2023 Central Council of Church Bell Ringers
