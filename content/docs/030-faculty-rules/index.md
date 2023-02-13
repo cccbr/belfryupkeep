@@ -143,74 +143,72 @@ This table prescribes items which may, subject to any specified conditions, be u
         </tr>
     </thead>
     <tbody>
-       <tr>
-           <td>(1) The lifting of a bell to allow the cleaning of bearings and housings</td>
-           <td>
-               <p>Regard is had to any guidance issued by the Church Buildings Council</p>
-               <p>No modification is made to the manner in which any bell may be sounded</p>
-               <p>No historic material is modified or removed</p>
-           </td>
-       </tr>
-       <tr>
-           <td>
-               <p>(2) The like for like replacement of—</p>
-               <p>(a)bearings and their housings</p>
-               <p>(b)gudgeons</p>
-               <p>(c)crown staple assembly</p>
-               <p>(d)steel or cast iron headstocks</p>
-               <p>(e)wheels</p>
-           </td>
-           <td>
-               <p>Regard is had to any guidance issued by the Church Buildings Council</p>
-               <p>The works do not involve the drilling or turning of the bell</p>
-               <p>No modification is made to the manner in which any bell may be sounded</p>
-               <p>No historic material is modified or removed</p>
-           </td>
-       </tr>
-       <tr>
-           <td>
-               <p>(3) The replacement of—</p>
-               <p>(a) bell bolts</p>
-               <p>(b)a wrought iron clapper shaft with a wooden-shafted clapper</p>
-           </td>
-           <td>
-               <p>Regard is had to any guidance issued by the Church Buildings Council</p>
-               <p>No modification is made to the manner in which any bell may be sounded</p>
-               <p>No historic material is modified or removed</p>
-           </td>
-       </tr>
-       <tr>
-           <td>(4) The treatment of timber bell frames with preservative or insecticide materials</td>
-           <td></td>
-       </tr>
-       <tr>
-           <td>
-            (5) The re-pinning or re-facing of hammers in Ellacombe apparatus 
-           </td>
-           <td>
-            <p>Regard is had to any guidance issued by the Church Buildings Council</p>
-            <p>No modification is made to the manner in which any bell may be sounded</p>
-            <p>No historic material is modified or removed</p>
-           </td>
-       </tr>
-       <tr>
-           <td>(6) The installation of an electric silent ringing device for the training of ringers</td>
-           <td>
-               <p>Any work to an electrical installation or electrical equipment is carried out by a person whose work is subject to an accredited certification scheme (as defined in rule 3.1(6))</p>
-               <p>The device is installed in a location not normally visible to the public</p>
-               <p>No alteration is made to the fittings of the bells other than the installation of electric contacts and wires</p>
-               <p>The device does not adversely affect the church’s protection against lightning</p>
-           </td>
-       </tr>
-       <tr>
-           <td>(7) The installation of louvres in a belfry as a sound control measure</td>
-           <td>Any fixings are made into mortar</td>
-       </tr>
-       <tr>
-           <td>(8) The introduction of peal boards in a location not normally visible to the public</td>
-           <td></td>
-       </tr>
-    </tbody>>
+        <tr>
+            <td>(1) The lifting of a bell to allow the cleaning of bearings and housings</td>
+            <td>
+                <p>Regard is had to any guidance issued by the Church Buildings Council</p>
+                <p>No modification is made to the manner in which any bell may be sounded</p>
+                <p>No historic material is modified or removed</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>(2) The like for like replacement of—</p>
+                <p>(a)bearings and their housings</p>
+                <p>(b)gudgeons</p>
+                <p>(c)crown staple assembly</p>
+                <p>(d)steel or cast iron headstocks</p>
+                <p>(e)wheels</p>
+            </td>
+            <td>
+                <p>Regard is had to any guidance issued by the Church Buildings Council</p>
+                <p>The works do not involve the drilling or turning of the bell</p>
+                <p>No modification is made to the manner in which any bell may be sounded</p>
+                <p>No historic material is modified or removed</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>(3) The replacement of—</p>
+                <p>(a)bell bolts</p>
+                <p>(b)a wrought iron clapper shaft with a wooden-shafted clapper</p>
+            </td>
+            <td>
+                <p>Regard is had to any guidance issued by the Church Buildings Council</p>
+                <p>No modification is made to the manner in which any bell may be sounded</p>
+                <p>No historic material is modified or removed</p>
+            </td>
+        </tr>
+        <tr>
+            <td>(4) The treatment of timber bell frames with preservative or insecticide materials</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>(5) The re-pinning or re-facing of hammers in Ellacombe apparatus</td>
+            <td>
+                <p>Regard is had to any guidance issued by the Church Buildings Council</p>
+                <p>No modification is made to the manner in which any bell may be sounded</p>
+                <p>No historic material is modified or removed</p>
+            </td>
+        </tr>
+        <tr>
+            <td>(6) The installation of an electric silent ringing device for the training of ringers</td>
+            <td>
+                <p>Any work to an electrical installation or electrical equipment is carried out by a person whose work is subject to an accredited certification scheme (as defined in rule 3.1(6))</p>
+                <p>The device is installed in a location not normally visible to the public</p>
+                <p>No alteration is made to the fittings of the bells other than the installation of electric contacts and wires</p>
+                <p>The device does not adversely affect the church’s protection against lightning</p>
+            </td>
+        </tr>
+        <tr>
+            <td>(7) The installation of louvres in a belfry as a sound control measure</td>
+            <td>Any fixings are made into mortar</td>
+        </tr>
+        <tr>
+            <td>(8) The introduction of peal boards in a location not normally visible to the public</td>
+            <td></td>
+        </tr> 
+    </tbody>
 </table>
 
 {{< /rawhtml >}}	
