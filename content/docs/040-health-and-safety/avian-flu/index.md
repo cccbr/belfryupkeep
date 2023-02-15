@@ -14,8 +14,6 @@ Musings aside though, the job of clearing the sticks, feathers and carcasses is 
 
 The risks involved fall into two basic categories: the mechanical and the biological. The mechanical risks are those you would still be exposed to in a pristine, newly built tower with a new ring of bells installed; trips, falls, proximity to heavy machinery with the potential to move suddenly, etc. For the purposes of this article, I will take these as read and move on to the biological risks.
 
-The risks involved fall into two basic categories: the mechanical and the biological. The mechanical risks are those you would still be exposed to in a pristine, newly built tower with a new ring of bells installed; trips, falls, proximity to heavy machinery with the potential to move suddenly, etc. For the purposes of this article, I will take these as read and move on to the biological risks.
-
 Due to these significant risks, there is a very strong case for contracting a specialist in cases where there is a great deal of contamination and this should be considered even in moderate cases.
 
 If you need to do the work yourself, the best practice for dealing with bird waste, carcasses and nest material is fairly simple and the gist of it is to avoid any contact with the hazardous materials.
