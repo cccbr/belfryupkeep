@@ -1,5 +1,5 @@
 ---
-title: Avian Flu
+title: Avian Influenza
 ---
 
 # Appendix: Cleaning Bell Chambers Contaminated with Bird Waste or Carcasses
