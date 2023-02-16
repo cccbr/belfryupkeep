@@ -14,6 +14,8 @@ Musings aside though, the job of clearing the sticks, feathers and carcasses is 
 
 The risks involved fall into two basic categories: the mechanical and the biological. The mechanical risks are those you would still be exposed to in a pristine, newly built tower with a new ring of bells installed; trips, falls, proximity to heavy machinery with the potential to move suddenly, etc. For the purposes of this article, I will take these as read and move on to the biological risks.
 
+As biological risks go, handling dead birds is a fairly nasty prospect. Even the dust from the feathers of a live, healthy bird can carry bacteria which cause psittacosis or other diseases. Add to this the currently increased risk of contracting H5N1 or other variants of bird flu and the need for proper precautions becomes irrefutable. This is without even mentioning such delights as post-mortem decay or droppings laden with fungi and bacteria which can cause histoplasmosis, candidiasis, cryptococcosis, St. Louis encephalitis, E. Coli, or salmonella, to name a few.
+
 Due to these significant risks, there is a very strong case for contracting a specialist in cases where there is a great deal of contamination and this should be considered even in moderate cases.
 
 If you need to do the work yourself, the best practice for dealing with bird waste, carcasses and nest material is fairly simple and the gist of it is to avoid any contact with the hazardous materials.
