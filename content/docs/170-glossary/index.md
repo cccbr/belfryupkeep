@@ -45,7 +45,7 @@ The Death Watch Beetle infests old damp oak and elm timbers – thus representin
 
 ## Diocesan Advisory Committee (DAC)
 
-Within the Church of England, the DAC is the lead body in the diocese for advice on the care and development of church buildings; providing advice to parishes, Archdeacons, and the Diocesan Chancellor. It has a key role to promote good practice in the maintenance and development of church buildings. Before considering a faculty application, the Chancellor is obliged to take advice from the DAC. The DAC will appoint one or more DAC Bells Advisers. Towers will benefit by maintaing contact with their local Adviser. 
+Within the Church of England, the DAC is the [lead body in the diocese](https://www.churchofengland.org/resources/churchcare/church-buildings-council/how-we-manage-our-buildings/diocesan-advisory-map) for advice on the care and development of church buildings; providing advice to parishes, Archdeacons, and the Diocesan Chancellor. It has a key role to promote good practice in the maintenance and development of church buildings. Before considering a faculty application, the Chancellor is obliged to take advice from the DAC. The DAC will appoint one or more DAC Bells Advisers. Towers will benefit by maintaining contact with their local Adviser. 
 
 ## Ellacombe Apparatus
 
