@@ -32,6 +32,7 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 | Date | Changes |
 | ---- | ---- |
+| 28/02/2023 | H&S: Appendix on Avian Influenza added |
 | 13/02/2023 | Faculty Jurisdiction Rules: Improved layout for Tables A and B |
 | 07/11/2022 | Maintenance Schedule: Full version now available |
 | 14/10/2022 | Ropes: weight of spider |
