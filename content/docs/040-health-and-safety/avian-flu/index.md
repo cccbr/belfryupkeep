@@ -6,8 +6,6 @@ title: Avian Influenza
 
 ## With reference to avian influenza / bird flu
 
-UNDER CONSTRUCTION
-
 Birds finding their way into towers, particularly bell chambers, has been an issue that ringers have had to deal with and try to prevent for as long as bells have been hung in towers. I find it interesting to think that back in the 1300's some monastery servant, sexton or local labourer would have been tasked with climbing the tower with a sack and a shovel to remove sticks, nests and carcasses just as I have done. The sack would have been made of sackcloth not polyethylene, but otherwise it's a shared human experience that links my life with one perhaps 30 generations ago.
 
 Musings aside though, the job of clearing the sticks, feathers and carcasses is an important one and is not without its risks. At present, with avian influenza cases at a high level and special precautions and restrictions in place to try to limit its spread, we need to be more careful than ever when undertaking this least pleasant of a steeple-keeper's tasks.
@@ -66,6 +64,6 @@ Further information on the topic is available from various sources, some of whic
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (Under construction), February 2023
+Version 1.0, February 2023
 
 © 2023 Central Council of Church Bell Ringers
