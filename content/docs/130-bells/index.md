@@ -11,7 +11,7 @@ Bells are important as the public voice of the church – familiar to those livi
 
 Around the middle of the nineteenth century, some church bells were cast in steel, as a cheaper alternative to bronze. Manufacture was discontinued after about twenty years but some rings of steel bells are still in use.
 
-## Delvelopment of Bells
+## Development of Bells
 
 ![Parts of a bell](bells_fig-1.jpg)
 
