@@ -86,7 +86,7 @@ A fundamental difference is that the Ecclesiastical Exemption does not apply in 
 
 ### Scotland
 
-[Guidance (pdf download)](https://pub-prod-sdk.azurewebsites.net/api/file/7b83a87d-21ab-4749-b014-ab0c0114bca6) is available on the operation of the Ecclesiastical Exemption in Scotland.
+Historic Environment Scotland provide [guidance (pdf download)](static/ecclesiastical-exemption-guide.pdf) on the operation of the Ecclesiastical Exemption in Scotland.
 
 ### Wales
 
@@ -125,7 +125,7 @@ Australia/New Zealand and North America have an increasing number of ringing tow
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.2, November 2022
+Version 1.0.3, March 2023
 
-© 2022 Central Council of Church Bell Ringers
+© 2023 Central Council of Church Bell Ringers
 
