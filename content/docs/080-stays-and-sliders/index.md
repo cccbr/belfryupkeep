@@ -221,6 +221,10 @@ For ringers, a broken stay will be an unexpected and possibly alarming event. As
 
 Several options are available here and the choice requires careful consideration.
 
+{{< hint warning >}}
+In the last few years many ash trees have started to suffer from "ash die back" - a disease that leads to the death of the trees affected. Many ash trees are therefore being felled and ringers may anticipate plenty of ash being available for stays. However, one of the problems with the diseased ash is that it becomes very brittle and is therefore useless for making stays. Great caution is also required when felling diseased trees. Affected wood becomes marked from the centre with dark brown and black markings. 
+{{< /hint >}}
+
 #### Obtaining a replacement from the original bell hanger
 
 The simplest and lowest risk option is to obtain a replacement stay from the original bell hanger. This is not the cheapest option but bear the following points in mind:
@@ -351,6 +355,6 @@ Some bolts, particularly coach bolts, may take time to settle in. It would be pr
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.1, September 2022
+Version 1.0.2, March 2023
 
-© 2022 Central Council of Church Bell Ringers
+© 2023 Central Council of Church Bell Ringers
