@@ -32,7 +32,7 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 | Date | Changes |
 | ---- | ---- |
-| 04/03/2023 | Stays & Sliders: Warning added about Ash die back |
+| 04/03/2023 | Stays & Sliders: Warning added about Ash die back; Faculty Rules: Relevant items from Church Building section added |
 | 28/02/2023 | H&S: Appendix on Avian Influenza added |
 | 13/02/2023 | Faculty Jurisdiction Rules: Improved layout for Tables A and B |
 | 07/11/2022 | Maintenance Schedule: Full version now available |
