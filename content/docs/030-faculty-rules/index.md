@@ -25,7 +25,7 @@ The Rules were amended in 2019 and again in 2022. The full version of the latest
 
 ## Items Most Likely to be of Relevance for Ringers
 
-The extracts given below are from Scedule 1 of the (very long) document referenced above and are relevant to bells and associated fittings, and also to clocks. Church clocks are included here because they are typically housed in the church tower and in many cases use the ringing bells as clock bells.
+The extracts given below are from Scedule 1 of the (very long) document referenced above and are relevant to bells and associated fittings, and also to clocks. Church clocks are included here because they are typically housed in the church tower and in many cases use the ringing bells as clock bells. Selected items from the *Church building* section which may be relevant to a Steeple Keeper are also included.
 
 {{<hint warning>}}
 Please note that, if you need to be involved in preparing a Faculty, the extracts below are not a substitute for the full document.
@@ -34,6 +34,39 @@ Please note that, if you need to be involved in preparing a Faculty, the extract
 ### List A
 
  As stated above, items in List A may simply be undertaken (within the specified conditions) by a parish without a faculty and without the need for any form of consultation. The Steeple Keeper will work closely with the parish in discussions on these.
+ 
+ #### A1. Church building, etc
+
+{{< rawhtml >}}
+
+<table>
+    <thead>
+        <tr>
+            <td><i>Matter</i></td>
+            <td><i>Specified conditions</i></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>(4) The repair or like for like replacement of wire mesh window guards</td>
+            <td>Only non-corroding fixings are used and, where practicable, are fixed in mortar joints</td>
+        </tr>
+        <tr>
+            <td>(5) The treatment of timber against beetle or fungal activity where the church is not a listed building</td>
+            <td>The works do not involve the replacement of timber</td>
+        </tr>
+        <tr>
+            <td>(17) The installation of bat boxes as part of a bat management programme</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>(19) The installation of bird netting to tower windows</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+{{< /rawhtml >}}
 
 #### A3. Bells etc
 
@@ -130,6 +163,31 @@ Please note that, if you need to be involved in preparing a Faculty, the extract
 ### List B
 
 This table prescribes items which may, subject to any specified conditions, be undertaken without a faculty if the archdeacon has been consulted on the proposal to undertake the matter and has given notice in writing that the matter may be undertaken without a faculty. The archdeacon may impose additional conditions in the written notice. The Steeple Keeper will provide technical assistance in preparation of the proposal to the archdeacon.
+
+#### B1. Church building, etc
+
+{{< rawhtml >}}
+
+<table>
+    <thead>
+        <tr>
+            <td><i>Matter</i></td>
+            <td><i>Specified conditions</i></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>(4) The treatment of timber against beetle or fungal activity where the church is not a listed building</td>
+            <td>The works do not involve the replacement of timber</td>
+        </tr>
+        <tr>
+            <td>(19) The introduction of bird boxes</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+{{< /rawhtml >}}
 
 #### B2. Bells etc
 
@@ -256,6 +314,6 @@ This table prescribes items which may, subject to any specified conditions, be u
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.2, February 2023
+Version 1.2.1, March 2023
 
 © 2023 Central Council of Church Bell Ringers
