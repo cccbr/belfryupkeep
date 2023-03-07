@@ -60,6 +60,10 @@ Further information on the topic is available from various sources, some of whic
 
 [Bird flu (avian influenza): latest situation in England (UK Government)](https://www.gov.uk/government/news/bird-flu-avian-influenza-latest-situation-in-england)
 
+{{< hint info >}}
+[Back to Health & Safety](../../040-health-and-safety)
+{{< /hint >}}
+
 ## Disclaimer
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
