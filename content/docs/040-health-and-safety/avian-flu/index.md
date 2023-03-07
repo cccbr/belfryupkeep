@@ -60,9 +60,13 @@ Further information on the topic is available from various sources, some of whic
 
 [Bird flu (avian influenza): latest situation in England (UK Government)](https://www.gov.uk/government/news/bird-flu-avian-influenza-latest-situation-in-england)
 
+---
+
 {{< hint info >}}
-[Back to Health & Safety](../../040-health-and-safety)
+**[Back to Health & Safety](../../040-health-and-safety)**
 {{< /hint >}}
+
+---
 
 ## Disclaimer
  
