@@ -18,8 +18,18 @@ The faculty system is a judicial system, so these notes reflect this style. Pari
 ## Background 
 
 The Faculty Jurisdiction Rules 2015 were introduced with the intention of simplifying the faculty process and reducing the burden of administration, in particular for churchwardens and others in parishes with responsibility for church buildings. The major innovation of the 2015 Rules was the introduction of Lists A and B for items that could be undertaken without a faculty, subject to some general conditions stipulated in the Schedule. 
--	Items in List A may be undertaken by a parish without a faculty and without the need for any form of consultation. 
--	Items in List B may be undertaken without a faculty provided the archdeacon is consulted and has given written authorisation.
+
+A [useful guide](https://www.churchofengland.org/sites/default/files/2021-01/Bells%20Guidance.pdf) to the application of Lists A and B contains the following advice:
+
+*The works in List A may be undertaken without faculty and without informing your archdeacon. They are to allow for the routine maintenance and inspection of bells that are in regular use and where there is a tower captain, or other person, who has sufficient skills and knowledge to ensure that the work is done with due regard to health and safety and the protection of historically significant parts of the installation. List A does not permit work requiring a bell to be lifted from its bearings or making alterations to an installation*.
+
+*Works in List B require the Archdeacon to be consulted to confirm that a faculty is not needed. The Archdeacon will take advice from the DAC and its bells adviser before giving notice that the proposals may be undertaken without a faculty, or advising that they require a full faculty application*.
+
+*As with List A, these works should only be carried out by persons with sufficient skills and knowledge to complete the work to a satisfactory standard, with due regard to Health and Safety and the protection of historically significant parts of the installation. This may require a bellhanger to carry out or oversee the works*.
+
+*Although a series of relatively minor works may be all that is necessary to bring an installation back into use, the provisions of List B are principally for bells in regular use. If an installation is being brought back into use after a period of over 5 years a professional bell hanger must be consulted to see that all aspects of the ring are fit for use*.
+
+*List B cannot be used for works that require the removal of the bell from the belfry or for works that involve drilling, tuning, or other work that would make a lasting change to the bell*.
 
 The Rules were amended in 2019 and again in 2022. The full version of the latest guidance is [here](https://www.legislation.gov.uk/uksi/2019/1184/article/20/made).
 
@@ -314,6 +324,6 @@ This table prescribes items which may, subject to any specified conditions, be u
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.2.1, March 2023
+Version 1.2.2, March 2023
 
 © 2023 Central Council of Church Bell Ringers
