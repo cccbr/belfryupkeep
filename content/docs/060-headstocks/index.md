@@ -170,12 +170,12 @@ A fabricated headstock which has been galvanised should not normally require pai
 
 | Figure | Details | 
 | :---: | --- | 
-| 1 | Ampton, Suffolk. Timber headstock and bell supported from canons with straps. Entry in the *Bells and Installations* round of the Central Council photographic competition.  (Photo: Neil Dodge) |
-| 2 | Pakenham, Suffolk. Bell supported by drilling through crown; canons present but not used. Entry in the *Bells and Installations* round of the Central Council photographic competition.  (Photo: Neil Dodge) |
+| 1 | Ampton, Suffolk. Timber headstock and bell supported from canons with straps. Entry in the *Bells and Installations* round of the Central Council photographic competition.  (Photo: Neal Dodge) |
+| 2 | Pakenham, Suffolk. Bell supported by drilling through crown; canons present but not used. Entry in the *Bells and Installations* round of the Central Council photographic competition.  (Photo: Neal Dodge) |
 | 3 | Thornbury, Glos. Cast metal headstock. (Photo: Robin Shipp) |
 | 4 | Hawkesbury, Glos. Fabricated metal headstock on the Tenor bell. Entry in the *Bells and Installations* round of the Central Council photographic competition.  (Photo: David Bagley) |
 | 5 | Elkstone, Glos. Metal canon-retaining headstock. (Photo: Simon Ridley) |
-| 6 | Pakenham, Suffolk. Attachment of a gudgeon to a timber headstock. Entry in the *Bells and Installations* round of the Central Council photographic competition.  (Photo: Neil Dodge) |
+| 6 | Pakenham, Suffolk. Attachment of a gudgeon to a timber headstock. Entry in the *Bells and Installations* round of the Central Council photographic competition.  (Photo: Neal Dodge) |
 
 ----
 
