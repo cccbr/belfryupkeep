@@ -18,7 +18,7 @@ Filament light bulbs should **NOT** be used as a heat source. The surface of the
 
 - 13A power supply using UK standard 3 pin plug and appropriately rated flex
 - Thermostat
-- Timer to enable drier to be operated for a limited period before ringing. 
+- Timer to enable drier to be operated for a limited period before ringing 
 - On / off switch on the unit itself (as well as with mains socket) 
 - Warning pilot “on light” on the unit 
 - Over-temperature cut-out
