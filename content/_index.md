@@ -18,6 +18,18 @@ Our aims in this document are:
 - To advise you on the maintenance tasks that you should be able to carry out, possibly with expert advice or assistance
 - Most importantly, to help you recognise the tasks that require specialist knowledge from a Bell Hanger or other expert
 
+{{< hint warning >}}
+The Stewardship & Management Workgroup have produced two other
+documents:
+  - **[Belfry Projects](https://belfryprojects.cccbr.org.uk/)**, which
+    offers advice to anyone who is considering a project to install
+    bells or undertake restoration work on a bell installation in a bell
+    tower.
+ - **[Running a Tower](https://runningatower.cccbr.org.uk/)**, which is
+    aimed at the Tower Captain - the person with overall responsibility
+    for looking after all aspects of a tower.
+{{< /hint >}}
+
 ## Finding Your Way Round
 
 If you are working on a computer browser (or on a tablet in landscape orientation) you will see a navigation menu with links to all the chapters on the left, and a menu with links to sections in the current chapter on the right. On a narrower screen (a phone or a tablet in portrait orientation), you will need to click on the menu icons (three stacked horizontal lines) at the top of the page to see either menu. Another click takes you back to the full text. For those who want to read the document straight through, and to help those reading on small screens, there are links at the end of each chapter to the next and the previous chapter.
@@ -32,6 +44,7 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 | Date | Changes |
 | ---- | ---- |
+| 24/06/2023 | Home page: Added links for Belfry Projects and Running a tower \
 | 05/06/2023 | Ropes: Added appendix on Rope Driers |
 | 24/03/2023 | Faculty Jurisdiction Rules: Further advice on application of Lists A and B |
 | 04/03/2023 | Stays & Sliders: Warning added about Ash die back; Faculty Rules: Relevant items from Church Building section added |
@@ -56,6 +69,6 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.8, March 2023
+Version 1.0.9, June 2023
 
 © 2023 Central Council of Church Bell Ringers
