@@ -44,7 +44,7 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 | Date | Changes |
 | ---- | ---- |
-| 24/06/2023 | Home page: Added links for Belfry Projects and Running a tower \
+| 24/06/2023 | Home page: Added links for Belfry Projects and Running a Tower |
 | 05/06/2023 | Ropes: Added appendix on Rope Driers |
 | 24/03/2023 | Faculty Jurisdiction Rules: Further advice on application of Lists A and B |
 | 04/03/2023 | Stays & Sliders: Warning added about Ash die back; Faculty Rules: Relevant items from Church Building section added |
