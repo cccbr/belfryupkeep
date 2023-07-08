@@ -36,6 +36,10 @@ If you are working on a computer browser (or on a tablet in landscape orientatio
 
 Within the text, links to sections within the current chapter, to other chapters, and to external web references are shown in blue. Links shown in ***bold italic*** blue refer to entries in the 'Glossary' chapter.
 
+{{< hint info >}}
+If the Search Box (top left below the title) does not work the information may be found using the left-hand menu and the right-hand menu (showing sections within the current chapter). This problem appears to be due to an issue with the hosting software which we are working to address. We apologise for any inconvenience.
+{{< /hint >}}
+
 ## Image Credits
 
 Credits will be found at the end of each chapter. The picture on this page shows the six bells of St Thomas the Martyr, Up Holland, Lancashire, UK raised ready for ringing. This was the winner of the *Bells and Installations* round of the Central Council photographic competition. (Photo: Phil Hope)
@@ -44,6 +48,7 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 | Date | Changes |
 | ---- | ---- |
+| 08/07/2023 | Home Page: Note added on Search Box issue |
 | 24/06/2023 | Home page: Added links for Belfry Projects and Running a Tower |
 | 05/06/2023 | Ropes: Added appendix on Rope Driers |
 | 24/03/2023 | Faculty Jurisdiction Rules: Further advice on application of Lists A and B |
@@ -69,6 +74,6 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.9, June 2023
+Version 1.0.10, July 2023
 
 © 2023 Central Council of Church Bell Ringers
