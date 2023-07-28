@@ -36,10 +36,6 @@ If you are working on a computer browser (or on a tablet in landscape orientatio
 
 Within the text, links to sections within the current chapter, to other chapters, and to external web references are shown in blue. Links shown in ***bold italic*** blue refer to entries in the 'Glossary' chapter.
 
-{{< hint info >}}
-If the Search Box (top left below the title) does not work the information may be found using the left-hand menu and the right-hand menu (showing sections within the current chapter). This problem appears to be due to an issue with the hosting software which we are working to address. We apologise for any inconvenience.
-{{< /hint >}}
-
 ## Image Credits
 
 Credits will be found at the end of each chapter. The picture on this page shows the six bells of St Thomas the Martyr, Up Holland, Lancashire, UK raised ready for ringing. This was the winner of the *Bells and Installations* round of the Central Council photographic competition. (Photo: Phil Hope)
