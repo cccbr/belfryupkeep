@@ -50,7 +50,11 @@ For a church tower, bats are the most likely case of protected wildlife – and 
 
 *Figure 1: Nesting boxes for swifts installed in tower louvres*
 
-There may also be restrictions concerning certain species of birds in the nesting season. Churches can make a positive contribution by providing nest sites. Figure 1 shows nesting boxes installed for swifts – a species that is declining due to lack of suitable nest sites. The birds are flourishing and not bothered by the noise of the bells. Further information is given [here](https://www.caringforgodsacre.org.uk/guidelines-for-installing-swift-nest-boxes-in-church-belfries/ ).
+There may also be restrictions concerning certain species of birds in the nesting season. Churches can make a positive contribution by providing nest sites. Figure 1 shows nesting boxes installed for swifts – a species that is declining due to lack of suitable nest sites. The birds are flourishing and not bothered by the noise of the bells. Further information is given [here](https://www.caringforgodsacre.org.uk/guidelines-for-installing-swift-nest-boxes-in-church-belfries/).
+
+{{< hint warning >}}
+If you have access to *The Ringing World*, Alistair Whybrow has two articles describing the installation of swift boxes at Kingsteignton, Devon: *Bell chambers offer sanctuary for swifts*, 7 December 2018 (p1224) and *Swift boxes have success in second year!*, 29 November 2019 (p1172).
+{{< /hint >}}
 
 ## Other Jurisdictions
 
