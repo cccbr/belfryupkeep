@@ -80,7 +80,7 @@ Bosses can be made of timber or metal:
 -  Metal bosses can be made of cast iron, steel or aluminium. All of these corrode, even to a small extent, and this can lead to increased rope wear.
 -  Stainless steel does not corrode in a normal tower environment and a stainless-steel boss will retain a smooth polished surface. This is, however, an expensive option.
 
-### Rope Guides
+### Rope guides
 
 Some ringing rooms can have very high ceilings. In this case, one or more rope guides may be fitted to control the fall of the ropes. Rope guides may also be used to draw the ropes into a better circle but the amount of draw should be kept to a minimum.
 
