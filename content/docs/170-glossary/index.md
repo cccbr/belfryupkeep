@@ -47,6 +47,9 @@ The Death Watch Beetle infests old damp oak and elm timbers – thus representin
 
 Within the Church of England, the DAC is the [lead body in the diocese](https://www.churchofengland.org/resources/churchcare/church-buildings-council/how-we-manage-our-buildings/diocesan-advisory-map) for advice on the care and development of church buildings; providing advice to parishes, Archdeacons, and the Diocesan Chancellor. It has a key role to promote good practice in the maintenance and development of church buildings. Before considering a faculty application, the Chancellor is obliged to take advice from the DAC. The DAC will appoint one or more DAC Bells Advisers. Towers will benefit by maintaining contact with their local Adviser. 
 
+## Drawing (ropes)
+Where it is impossible to obtain a straight drop from the **Ground Pulley** to the ringer the rope may be ‘Drawn’ away from a straight fall. This may be accomplished by a double **Ground Pulley** or additional pulleys in an **Intermediate Chamber**.
+
 ## Ellacombe Apparatus
 
 A system intended for tune ringing, consisting of a set of hammers arranged to strike the inside of the bells, operated from the ringing room or lower in the tower by pulling sleeved ropes mounted in a frame, operated by one person. Arrangements **MUST** be in place to ensure that, when ringing is taking place, the hammers are pulled clear and the apparatus cannot be operated accidentally.
@@ -161,6 +164,6 @@ A circular wooden component attached to the **Headstock** by which the rope is a
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.1, September 2022
+Version 1.0.2, September 2023
 
-© 2022 Central Council of Church Bell Ringers
+© 2023 Central Council of Church Bell Ringers
