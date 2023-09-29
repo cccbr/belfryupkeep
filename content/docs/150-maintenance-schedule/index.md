@@ -28,7 +28,7 @@ You may need to tell your browser to accept downloads from Belfry Maintenance.
   - [Microsoft® Word (.docx)](static/schedule.docx)
   - [LibreOffice Writer (.odt)](static/schedule.odt)
 
-The model schedule is three pages long so, to give an idea of the content, Figure 1 shows the top part of the first page and the bottom part of the third. When modified to suit your tower, this will be filled in when checks are carried out, with one sheet per year. Note that there is a space at the bottom of the last page to records the name(s) of those carrying out the checks.
+The model schedule is three pages long so, to give an idea of the content, Figure 1 shows the top part of the first page and the bottom part of the third. When modified to suit your tower, this will be filled in when checks are carried out, with one sheet per year. Note that there is a space at the bottom of the last page to record the name(s) of those carrying out the checks.
 
 ![Model Schedule](schedule_fig-1.jpg)
 
