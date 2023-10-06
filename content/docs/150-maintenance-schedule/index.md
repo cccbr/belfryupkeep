@@ -20,15 +20,11 @@ For convenience, the term “**Church**” is here used to mean the authorities 
 
 ## Model Schedule
 
-A suggested model schedule – which also acts as a checklist – is available for you to download and save. This is not meant to be prescriptive. If you would prefer to produce the schedule in a different way that is fine. But we hope the information given here will be useful.
+A suggested model schedule – which also acts as a checklist – is [here](static/schedule.docx) for you to download and save. This is not meant to be prescriptive. If you would prefer to produce the schedule in a different way that is fine. But we hope the information given here will be useful.
 
-Two download formats are available:
-
-{{<hint info>}}
-You may need to tell your browser to accept downloads from Belfry Maintenance.
-{{</hint>}}
-  - [Microsoft® Word (.docx)](static/schedule.docx)
-  - [LibreOffice Writer (.odt)](static/schedule.odt)
+{{< hint info >}}
+The model schedule is in .docx format, which can be read by most word processing programmes, including Microsoft Word and Libre Office Writer. You may need to tell your browser to accept downloads from Belfry Upkeep. Note that different browsers may handle downloads in different ways.
+{{< /hint >}}
 
 The model schedule is three pages long so, to give an idea of the content, Figure 1 shows the top part of the first page and the bottom part of the third. When modified to suit your tower, this will be filled in when checks are carried out, with one sheet per year. Note that there is a space at the bottom of the last page to record the name(s) of those carrying out the checks.
 
@@ -38,7 +34,7 @@ The model schedule is three pages long so, to give an idea of the content, Figur
 
 All towers vary, so you will now need to modify the downloaded file to suit the needs of your own tower. How you do this is up to you, but we will provide some guidance. You may also be able to obtain advice from other local towers or your local Ringing Association.
 
-As a start, you will need to enter details of your tower. You can personalise this as you wish: change the colour, add a photograph or whatever. Note that this document is set up to repeat the first four rows at the start of each page.
+As a start, you will need to enter details of your tower. You can personalise this as you wish: change the colour, add a photograph or whatever. Note that this document is set up to repeat the tower details at the top of each page.
 
 {{<hint danger>}}
 Please remember that you must not become a slave to the schedule. A Steeple Keeper must always be ready for unexpected events: Did someone just bump a stay heavily? Is an experienced ringer complaining that a bell is not going as well as usual? In cases like this, a good Steeple Keeper will check as soon as possible, rather than waiting for the next scheduled inspection. You will see later that there are report sheets to cover such occasions.
@@ -68,6 +64,10 @@ The model schedule assumes four checks, at three-monthly intervals, with one she
 
 If usage of the bells is light – perhaps only Sundays and practice nights – you might judge that twice-yearly checks are adequate. For the reasons given above, a minor check in the Spring and a major one in the Autumn is probably the best choice.
 
+{{< hint warning >}}
+Anyone with a basic understanding of word processors should be able to convert the four columns in the model to two columns.
+{{< /hint >}}
+
 You should consider changing the checking frequency based on experience. Initially, to be on the safe side, you might check a component every three months. You could then consider extending the frequency to six months or longer if these checks show no change.
 
 Depending on the installation and usage of the bells, some checks may be required more frequently than quarterly. Some examples are:
@@ -95,9 +95,7 @@ Optimistically, most items on the schedule will not require action after checkin
   - A minor problem that was corrected during the checking – for example, a loose nut was tightened.
   - Something was noted which will need attention – for example, a rope might be showing signs of wear and will need repair or replacement.
 
-To deal with these, we suggest the use of ‘Action Tracking’ sheets, which are available for you to download and save. Again, two download formats are available:
-  - [Microsoft® Word (.docx)](static/tracking.docx)
-  - [LibreOffice Writer (.odt)](static/tracking.odt)
+To deal with these, we suggest the use of ‘Action Tracking’ sheets, which are available [here](static/tracking.docx) for you to modify.
 
 Figure 3 is a screenshot of this document.
 
@@ -149,7 +147,7 @@ We cannot be dogmatic here about who should see the reports of checks and any re
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 2.0, November 2022
+Version 2.1, October 2023
 
-© 2022 Central Council of Church Bell Ringers
+© 2023 Central Council of Church Bell Ringers
 
