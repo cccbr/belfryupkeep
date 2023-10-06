@@ -44,6 +44,7 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 | Date | Changes |
 | ---- | ---- |
+| 06/10/2023 | Maintenance Schedule: Downloadable schedule improved |
 | 28/07/2023 | Home Page: Search Box issue resolved - note removed |
 | 08/07/2023 | Home Page: Note added on Search Box issue |
 | 24/06/2023 | Home page: Added links for Belfry Projects and Running a Tower |
