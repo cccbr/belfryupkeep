@@ -5,8 +5,6 @@ weight: 150
 
 # Maintenance Schedule
 
-WORK IN PROGRESS - WON'T BE LONG
-
 The maintenance schedule is an important document: 
   - It defines what items need regular checking and how often. 
   - It includes provision for recording the results, including any remedial work carried out or still outstanding. 
@@ -65,7 +63,7 @@ The model schedule assumes four checks, at three-monthly intervals, with one she
 If usage of the bells is light – perhaps only Sundays and practice nights – you might judge that twice-yearly checks are adequate. For the reasons given above, a minor check in the Spring and a major one in the Autumn is probably the best choice.
 
 {{< hint warning >}}
-Anyone with a basic understanding of word processors should be able to convert the four columns in the model to two columns.
+Anyone with a basic understanding of word processors should be able to convert the four columns in the model schedule to two columns.
 {{< /hint >}}
 
 You should consider changing the checking frequency based on experience. Initially, to be on the safe side, you might check a component every three months. You could then consider extending the frequency to six months or longer if these checks show no change.
