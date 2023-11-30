@@ -97,7 +97,7 @@ The only likely relaxation is where it is necessary to observe a bell while a se
 ### Lighting and electrical equipment
 
 {{< hint warning >}}
-This section covers to the bell chamber. General lighting issues throughout the tower are covered in [Runnng a Tower](https://runningatower.cccbr.org.uk/docs/healthsafety/toweraccess/#lighting).
+This section concerns the bell chamber. General lighting issues throughout the tower are covered in [Runnng a Tower](https://runningatower.cccbr.org.uk/docs/healthsafety/toweraccess/#lighting).
 {{< /hint >}}
 
 A good starting point is for the bell chamber to be well lit with professionally installed lighting. But that is not always available and, in any case, additional lighting may be needed: for example, when working under the bells. In the past, this usually required inspection lamps with trailing mains cables. But the availability of bright, portable, battery powered LED lights removes the risks of tripping and electrocution posed by mains lighting. An LED head torch is invaluable, especially when working in cramped conditions. Examples of an LED head torch and portable light are shown in Figure 2.
