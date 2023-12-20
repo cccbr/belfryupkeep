@@ -316,7 +316,7 @@ This will involve witnessing the operation of the stay and slider when the bell 
 7.	If there is any problem, give the signal to immediately lower the bell.
 {{</hint>}}
 
-You would have had to do something very wrong for there to be a problem with a traditional stay and slider. A possible problem with a Hastings stay could be the dingler binding on one side of the quadrant (This should not happen if the stay has been made correctly). It may be possible to correct this by noting which side is binding, lowering the bell, slackening the stay bolts and attempting to move the stay slightly before repeating the check. If this doesn not work, or for any other problem, you must swallow your pride and seek expert help.
+You would have had to do something very wrong for there to be a problem with a traditional stay and slider. A possible problem with a Hastings stay could be the dingler binding on one side of the quadrant (This should not happen if the stay has been made correctly). It may be possible to correct this by noting which side is binding, lowering the bell, slackening the stay bolts and attempting to move the stay slightly before repeating the check. If this does not work, or for any other problem, you must swallow your pride and seek expert help.
 
 Some bolts, particularly coach bolts, may take time to settle in. It would be prudent to check the bolt tightness after a week or so.
 
