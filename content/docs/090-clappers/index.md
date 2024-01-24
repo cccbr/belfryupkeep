@@ -402,6 +402,10 @@ Bells](#odd-struck).
 Finally, details of the work carried out are recorded for future
 reference.
 
+{{< hint info >}}
+If you are working on a bell where the clapper has not been removed for some time, you may find that the crown staple nut and twiddle pins (if present) have become seized. The first step is to treat them with a penetrating oil, preferably overnight, and then attempt to use a large spanner or wrench. If this is not effective, some form of impact driver may be more successful. Trying to hammer the spanner or wrench is not preferred, as it may lead to damage, both to the installation and to yourself. If all else fails, don’t be afraid to call on outside help. To avoid this in the future, coat the threads with an anti-seize copper grease before replacing.
+{{< /hint >}}
+
 ## Other Information {#other}
 
 ### Odd-struck bells {#odd-struck}
@@ -566,6 +570,6 @@ Ringing World* 2019 (5686): 388-391, (5694): 582-585 and (5679):
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.2, December 2022
+Version 1.0.3, January 2024
 
-© 2022 Central Council of Church Bell Ringers
+© 2024 Central Council of Church Bell Ringers
