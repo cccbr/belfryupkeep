@@ -23,6 +23,16 @@ A Steeple Keeper (there may be alternative names) is someone who has been appoin
 
 The role involves regular checks, responding to incidents, carrying out maintenance within the level of their [experience](#experience-levels), and referring problems to specialists (usually Bell Hangers) where necessary.
 
+{{< hint info >}}
+A Steeple Keeper may be able to obtain help from their ringing society or association. Note the following announcement which appeared in the 26 January 2024 issue of *The Ringing World*.
+
+*Do ringing societies have information about people in their area who are involved in belfry maintenance work? If so, would you be willing to share any data (anonymised) with the CCCBR Stewardship & Management Workgroup?*
+
+*We hear that the number of people willing and able to do maintenance work in belfries seems to be reducing, and that their age profile is very high (mainly over 60). Their diversity is almost exclusively white male! Are these observations typical and how pervasive? This is what we hope to find out more rigorously and, if so, consider what are we doing as ringers to make sure that we will have people in future who are competent to help maintain the bells that we ring.*
+
+*If you are willing and able to help, then please contact the Workgroup Leader, by email at smlead@cccbr.org.uk.*
+{{< /hint >}}
+
 ### Experience levels
 
 This document is NOT intended to provide a qualification system for Steeple Keepers. Rather, we adopt the descriptive terms defined below in **bold**:
@@ -78,6 +88,6 @@ It may be that you have just ‘inherited’ a new tower – perhaps one where t
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.2.1, December 2022
+Version 1.2.2, January 2024
 
-© 2022 Central Council of Church Bell Ringers
+© 2024 Central Council of Church Bell Ringers
