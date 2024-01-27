@@ -44,6 +44,7 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 | Date | Changes |
 | ---- | ---- |
+| 27/01/2024 | Introduction: Possible assistance from local Societies & Associations |
 | 06/10/2023 | Maintenance Schedule: Downloadable schedule improved |
 | 28/07/2023 | Home Page: Search Box issue resolved - note removed |
 | 08/07/2023 | Home Page: Note added on Search Box issue |
@@ -72,6 +73,6 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.11, July 2023
+Version 1.0.12, January 2024
 
-© 2023 Central Council of Church Bell Ringers
+© 2024 Central Council of Church Bell Ringers
