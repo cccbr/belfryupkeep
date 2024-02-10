@@ -99,6 +99,10 @@ The reason for bonding is that lightning will take the path of least resistance 
 
 A properly installed bond should not deteriorate but, as the Steeple Keeper is likely to see the bell frame more often than other church officials, it would be prudent to identify the site of the bonding point and include a check on it in the maintenance schedule. Any problem should, of course, be reported immediately to the church authorities.
 
+{{< hint info >}}
+A more detailed description of lightning protection and bell frames can be found in this [downloadable PDF file](static/SM_LightningConductors_2020_Ver_1.pdf).
+{{< /hint >}}
+
 ## Image Credits
 
 | Figure | Details | 
@@ -123,6 +127,6 @@ A properly installed bond should not deteriorate but, as the Steeple Keeper is l
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.1.0, October 2022
+Version 1.1.1, February 2024
 
 © 2022 Central Council of Church Bell Ringers
