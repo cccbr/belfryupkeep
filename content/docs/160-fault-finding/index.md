@@ -17,6 +17,10 @@ This [downloadable PDF](static/SM_CommonProblems_2021_v3_1.pdf), originally prod
 
 ----
 
+## Disclaimer
+ 
+*Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
+
 Version 1.0.2, February 2024
 
 © 2024 Central Council of Church Bell Ringers
