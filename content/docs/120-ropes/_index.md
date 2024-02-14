@@ -112,7 +112,7 @@ If woollen strands are sticking out from a sally you can carefully trim them off
 
 Tail ends are often the first part of a rope to need repair. There are two main causes:
 
-- On larger bells, with their bigger wheels, the rope may repeatedly hit the floor when the bell is rung. Ropes perform best in tension and the bottom of a loop hitting the floor horizontally may open the strands. This parts the fibres and loosens the rope structure, leading to wear at this point. There is a view that rope mats will help to avoid wear, so long as they are made of wool, rather than artificial fibre. Apart from that possibility, you can either live with this or install permanent boxes on affected bells.
+- On larger bells, with their bigger wheels, the rope may repeatedly hit the floor when the bell is rung. Ropes perform best in tension and the bottom of a loop hitting the floor horizontally may open the strands. This parts the fibres and loosens the rope structure, leading to wear at this point. There is a view that rope mats will help to avoid wear, so long as they are made of wool, rather than artificial fibre. Apart from that possibility, you can either live with this or install [permanent boxes](https://runningatower.cccbr.org.uk/docs/ringingroom/boxes/) on affected bells.
 - Ringers adjusting the tail end length. This may take two forms:
   - Untucking and tucking the tail end, common before the start of a peal or quarter peal. This is acceptable, provided it is done carefully, using a wooden spike, known as a ***[fid](../170-glossary/#fid)***, to separate the strands. Metal spikes should not be used: the risk of damaging the strands is too great. 
   - Tying a knot – usually a ***[‘Figure-eight’ knot](../170-glossary/#figure-eight-knot)*** – to shorten a long rope. This is a short-term measure – perhaps just for one touch at a practice. This is acceptable so long as the knot is removed after use – if a knot is left in for too long it tightens, with possible damage to the rope when it is eventually untied. Also, knots should be removed before bells are lowered.
@@ -203,6 +203,6 @@ Ropes may become stiff in damp unheated ringing rooms. It may be possible to ins
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.1, June 2023
+Version 1.1.1, February 2024
 
-© 2022 Central Council of Church Bell Ringers
+© 2024 Central Council of Church Bell Ringers
