@@ -172,6 +172,24 @@ The rope is then tied off on the top spokes of the wheel, see Figure 8. Details 
 
 *Figure 8: Rope tied off on the main spokes of the wheel*
 
+### Rope stretch
+
+A new rope – or even a spare rope that has not been in use for a while – may exhibit some stretch when first used. Just a little stretch makes a bell more difficult to ring. Even experts must pull harder to control the bell and learners may be put off. 
+
+When ropes were made of natural fibre, it was common to hang a weight on the tail end, with the bell down, for a few days to reduce or eliminate stretch. With most top ends now made of artificial fibre, this is often not thought necessary. But many new ropes will have some stretch in the sally and tail end. Also, a rope of uncertain provenance may have an artificial top end with some stretch.
+
+The extent and source of any stretch can be checked as follows.
+
+{{< hint danger >}}
+For safety, this should be carried out by experienced ringers, with others staying out of the way.
+{{< /hint >}}
+
+- Set the bell at backstroke
+- Carefully pull the tail end and check how far your hands move before the bell just lifts off the stay. If this is around more than an inch or so you may have a problem.
+- At the same time, ask a helper to check how far the top of the sally moves. If this is more than an inch or so, there is stretch in the top end.
+
+If there is any evidence of stretch, you should be able to improve the situation by hanging a weight of around 25kg on the tail end  (with the bell down) for a few days, or longer if necessary. If the stretch is in an artificial fibre top end you should consider having that replaced.
+
 ## Rope Driers
 
 Ropes may become stiff in damp unheated ringing rooms. It may be possible to install a dehumidifier in a small ringing room but this would not be effective in the average size room. Ringers have produced home-made electrically heated rope driers but there are concerns over a lack of guidance on the safety of these. Following discussion with interested parties, suggestions have been prepared and these are included as an [Appendix](../120-ropes/rope-driers/) to this chapter.
@@ -203,6 +221,6 @@ Ropes may become stiff in damp unheated ringing rooms. It may be possible to ins
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.1.2, March 2024
+Version 1.2.0, March 2024
 
 © 2024 Central Council of Church Bell Ringers
