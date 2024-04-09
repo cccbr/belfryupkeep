@@ -101,6 +101,10 @@ Some cracked bells may be repaired by welding. If feasible, this allows a histor
 
 Bells should be checked for damage if they are used as clock bells, for manual chiming, as part of a carillon or [Ellacombe apparatus](../170-glossary/#ellacombe-apparatus), or other systems in which hammers strike the bells.
 
+Note that the responsibility for looking after any chiming apparatus, may not lie with the bell ringers. The Steeple Keeper must therefore maintain close contact with those involved. For clocks in particular, the [Code of Practice](http://www.clocksadvisersforum.uk/assets/files/CofP.pdf) issued by the Clocks Advisers Forum is useful. Section 09 of the Code summarises the need for regular inspection and lubrication of all moving parts as part of the annual maintenance of the clock, with the aim of avoiding the risk of damage to the bells, bell hammers or their mountings during ringing.
+
+The Steeple Keeper is well placed to note any problems which may arise between regular inspections of a clock. While it is not the responsibility of the Steeple Keeper to correct these, they should inform the Tower Authority if problems are noted. The downloadable [model maintenance schedule](https://belfryupkeep.cccbr.org.uk/docs/150-maintenance-schedule/#model-schedule) includes these points.
+
 The following precautions must be observed to avoid damage to the bells – and to the chiming mechanism:
 
 - Any hammers must be capable of being pulled clear of the bells before full circle ringing.
@@ -133,7 +137,7 @@ The following precautions must be observed to avoid damage to the bells – and 
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.1, September 2022
+Version 1.1.0, April 2024
 
-© 2022 Central Council of Church Bell Ringers
+© 2024 Central Council of Church Bell Ringers
 
