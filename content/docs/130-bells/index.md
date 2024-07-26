@@ -80,7 +80,7 @@ In time, the impact area will become deeper. If it becomes deeper than about 10%
 
 The usual remedy for excessive wear is  to rehang the bell turned through 90&deg; (termed ‘quarter turning’). This is definitely a job for a bell hanger and will require approval from the [relevant authorities](../020-permissions).
 
-A more unusual source of wear could arise from the bolts securing the clapper ball to the end of a wooden clapper - see Figure 4 in the [Clappers](../docs/090-clappers/#checking) chapter. Depending on the design of the clapper and the profile of the bell, one or more of the bolts may impact the bell.
+A more unusual source of wear could arise from the bolts securing the clapper ball to the end of a wooden clapper - see Figure 4 in the [Clappers](../090-clappers/#checking) chapter. Depending on the design of the clapper and the profile of the bell, one or more of the bolts may impact the bell.
 
 This has been reported (*The Ringing World*, 19 July 2024, p676) on a bell which had been fitted with a wooden shafted clapper around 15 years previously. The bell had cracked and inspection also showed an impact just above the soundbow from the end of one of the securing bolts. This may not have contributed to the cracking (the casting was also found to be significantly porous) but this is clearly not a desirable situation.
 
