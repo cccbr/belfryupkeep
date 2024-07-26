@@ -224,7 +224,7 @@ The procedure for checking is as follows:
 **Procedure for checking a clapper**
 
 1. Standing in the pit, swing the clapper to check for squealing or
-grinding noises. It should swing smoothly and noiselessly, for more than five swings. **(Take care to avoid getting hit by the swiinging clapper!)** If not, this
+grinding noises. It should swing smoothly and noiselessly, for more than five swings. **(Take care to avoid getting hit by the swinging clapper!)** If not, this
 could indicate problems with the clapper bush. If the clapper has
 provision for lubrication this should be used.
 
@@ -570,6 +570,6 @@ Ringing World* 2019 (5686): 388-391, (5694): 582-585 and (5679):
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.3, January 2024
+Version 1.0.4, July 2024
 
 © 2024 Central Council of Church Bell Ringers
