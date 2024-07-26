@@ -44,6 +44,7 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 | Date | Changes |
 | ---- | ---- |
+| 26/07/2024 | Bells: Possible impact from bolts on wooden clapper |
 | 09/04/2024 | Bells: Reference to Clocks Advisers Forum added |
 | 22/03/2024 | Ropes: Added section on rope stretch |
 | 27/01/2024 | Introduction: Possible assistance from local Societies & Associations |
