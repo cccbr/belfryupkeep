@@ -44,6 +44,7 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 | Date | Changes |
 | ---- | ---- |
+| 30/07/2024 | Faculty Jurisdiction Rules: Updated link to full rules |
 | 26/07/2024 | Bells: Possible impact from bolts on wooden clapper |
 | 09/04/2024 | Bells: Reference to Clocks Advisers Forum added |
 | 22/03/2024 | Ropes: Added section on rope stretch |
@@ -76,6 +77,6 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.14, July 2024
+Version 1.0.15, July 2024
 
 © 2024 Central Council of Church Bell Ringers
