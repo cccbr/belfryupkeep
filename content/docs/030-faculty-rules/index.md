@@ -31,11 +31,11 @@ A [useful guide](https://www.churchofengland.org/sites/default/files/2021-01/Bel
 
 *List B cannot be used for works that require the removal of the bell from the belfry or for works that involve drilling, tuning, or other work that would make a lasting change to the bell*.
 
-The Rules were amended in 2019 and again in 2022. The full version of the latest guidance is [here](https://www.legislation.gov.uk/uksi/2019/1184/article/20/made).
+The text of the Faculty Jurisdiction Rules 2015, as amended, is available [online](https://www.churchofengland.org/sites/default/files/2024-07/faculty-jurisdiction-rules-2015-amended-up-to-2024.pdf). This includes all the amendments that have been made, the most recent being in 2023.
 
 ## Items Most Likely to be of Relevance for Ringers
 
-The extracts given below are from Scedule 1 of the (very long) document referenced above and are relevant to bells and associated fittings, and also to clocks. Church clocks are included here because they are typically housed in the church tower and in many cases use the ringing bells as clock bells. Selected items from the *Church building* section which may be relevant to a Steeple Keeper are also included.
+The extracts given below are from the (very long) document referenced above and are relevant to bells and associated fittings, and also to clocks. Church clocks are included here because they are typically housed in the church tower and in many cases use the ringing bells as clock bells. Selected items from the *Church building* section which may be relevant to a Steeple Keeper are also included.
 
 {{<hint warning>}}
 Please note that, if you need to be involved in preparing a Faculty, the extracts below are not a substitute for the full document.
@@ -110,8 +110,10 @@ Please note that, if you need to be involved in preparing a Faculty, the extract
         <tr>
             <td>(4) The repainting of metal bell frames and metal bell fittings</td>
             <td>No bell is lifted from its bearings</td>
+        </tr><tr>
+	<td>(5) The like for like replacement of a wrought iron clapper shaft</td>
+	<td></td>
         </tr>
-        
     </tbody>
 </table>
 
@@ -324,6 +326,6 @@ This table prescribes items which may, subject to any specified conditions, be u
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.2.2, March 2023
+Version 1.2.3, July 2024
 
-© 2023 Central Council of Church Bell Ringers
+© 2024 Central Council of Church Bell Ringers
