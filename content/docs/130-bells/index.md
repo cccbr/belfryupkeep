@@ -109,7 +109,7 @@ Bells should be checked for damage if they are used as clock bells, for manual c
 
 Note that the responsibility for looking after any chiming apparatus, may not lie with the bell ringers. The Steeple Keeper must therefore maintain close contact with those involved. For clocks in particular, the [Code of Practice](http://www.clocksadvisersforum.uk/assets/files/CofP.pdf) issued by the Clocks Advisers Forum is useful. Section 09 of the Code summarises the need for regular inspection and lubrication of all moving parts as part of the annual maintenance of the clock, with the aim of avoiding the risk of damage to the bells, bell hammers or their mountings during ringing.
 
-The Steeple Keeper is well placed to note any problems which may arise between regular inspections of a clock. While it is not the responsibility of the Steeple Keeper to correct these, they should inform the Tower Authority if problems are noted. The downloadable [model maintenance schedule](https://belfryupkeep.cccbr.org.uk/docs/150-maintenance-schedule/#model-schedule) includes these points.
+The Steeple Keeper is well placed to note any problems which may arise between regular inspections of a clock. While it is not the responsibility of the Steeple Keeper to correct these, they should inform the Tower Authority if problems are noted. The downloadable [model maintenance schedule](/docs/150-maintenance-schedule/#model-schedule) includes these points.
 
 The following precautions must be observed to avoid damage to the bells – and to the chiming mechanism:
 
