@@ -55,7 +55,7 @@ There may also be restrictions concerning certain species of birds in the nestin
 {{< hint warning >}}
 If you have access to *The Ringing World*, Alistair Whybrow has two articles describing the installation of swift boxes at Kingsteignton, Devon: *Bell chambers offer sanctuary for swifts*, 7 December 2018 (p1224) and *Swift boxes have success in second year!*, 29 November 2019 (p1172).
 
-Alistair has also produced a more detailed article on *Swift Boxes on Church Bell Towers* which is available as a PDF download [here[(static/swifts-v1-pdf).
+Alistair has also produced a more detailed article on *Swift Boxes on Church Bell Towers* which is available as a PDF download [here](static/swifts-v1-pdf).
 {{< /hint >}}
 
 ## Other Jurisdictions
@@ -131,7 +131,7 @@ Australia/New Zealand and North America have an increasing number of ringing tow
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.3, March 2023
+Version 1.0.4, February 2025
 
-© 2023 Central Council of Church Bell Ringers
+© 2025 Central Council of Church Bell Ringers
 
