@@ -90,7 +90,7 @@ When the bell is mouth-up, the stay engages with the slider, which allows the be
 
 The main parts are shown in Figure 7. The **slider** (A) is located under the bell. There is a **pivot** (B) on the wheel side and the other end sits on a **runner board** (not visible). As the bell nears top centre the stay (C) pushes the slider between two **end stops** on the runner board – this is shown in Figure 8.
 
-{{< vimeo 727296663 >}}
+{{< video src="Stay_&_Slider" width="500px" >}}
 
 *Figure 8: Operation of a traditional stay and slider*
 
@@ -114,7 +114,7 @@ This mechanism, invented by Rev Edward Hastings Horne, has been fitted to some i
 
 In this system, shown in Figure 9, the slider under the bell is replaced by a metal quadrant (B) whose curvature matches the arc described by the tip of the stay. The ends of the quadrant bend out in opposite directions to form an elongated S-shape. The stay (A) has a pivoted metal peg, usually called a **dingler** (C), at its tip and the bends at either end of the quadrant direct the dingler to stop blocks on either side of the quadrant. The video in Figure 10 shows a Hastings stay in operation.
 
-{{< vimeo 733159845 >}}
+{{< video src="hastings_stay_v1 (480p)" width="500px" >}}
 
 *Figure 10: Hastings stay in operation*
 

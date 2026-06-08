@@ -1,7 +1,7 @@
 baseURL = 'https://belfryupkeep.cccbr.org.uk'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Belfry Upkeep'
-theme = 'hugo-book'
+theme = ["hugo-video", "hugo-book"]
 publishDir = "docs/"
 
 [params]

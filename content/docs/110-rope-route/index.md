@@ -28,7 +28,7 @@ The first major ‘obstacle’ in any installation is the **Ground Pulley**. Thi
 A rope moved from where it would naturally fall is said to be ‘drawn’. Thus, where a double ground pulley is used the rope is ‘drawn’ further under the bell.
 {{</hint>}}
 
-{{< vimeo id="727298847" title="Operation of a double ground pully" >}}
+{{< video src="Ground_Pulley" width="500px" title="Operation of a double ground pully" >}}
 
 *Figure 1: Movement of the rope over a double ground pulley*
 
@@ -40,7 +40,7 @@ In a tower with a very short draught the sally may pass up through the ground pu
 
 We have been referring to the most common location for the ground pulley – sitting below the wheel. A possible alternative is to ‘top-rope’ the wheel, with the ground pulley placed level with the top of the wheel, as shown in Figure 2. 
 
-{{< vimeo 730367366 >}}
+{{< video src="top_roping_v1 (1080p)" width="500px" >}}
 
 *Figure 2: Movement of the rope on a top-roped bell*
 
